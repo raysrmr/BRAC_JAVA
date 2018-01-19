@@ -31,7 +31,7 @@
   * To do that follow [this](https://help.github.com/articles/setting-your-username-in-git/).
 
 ## Tasks:
-- [x] Uploads the codes done by sir.
+- [x] Uploading the codes done by sir.
 - [ ] Open branches for everyone and adding everyone to the repository.
 - [ ] Automation.
 
