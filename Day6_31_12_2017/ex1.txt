@@ -1,0 +1,6 @@
+1-Map in the format like
+[CT-0339 : CTS, TC-1010 : TCS,IBM-3366 : IBM, DEL-1213 : DELL]
+Here Key: CT-0339 and Value:CTS
+Here both key and value in String Format. Extract the keys  and retrieve the integer part(ex=”CT_0339  as 339 ) of the key and check whether  integer Part is divisible by 3,if divisible then remove that from Map  and Display  remaining  map’s  size.
+Here O/P  : After removing Map’ size :2
+Note :  Please read keys and values from keyboard.
