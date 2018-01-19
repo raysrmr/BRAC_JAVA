@@ -1,0 +1,26 @@
+It's the time of the semester when you should concentrate working on your term project. 
+Here are a few suggestions what you can do today:
+
++ Plan your project if it's not done yet. Set your own specifications
++ Discuss the plan with fellow group members, other groups and me.
++ Ask for improvement suggestions.
++ Start planning by Drawing ER diagrams the class diagrams etc. Plan on what to use as the front end
++ Do necessary reading and searching on the web/book for tools needed.
++ Work on the actual coding if all of the above is done.
++ Jot down problems you face, and look for solutions.
++ Demonstrate/test parts that are already implemented.
++ Work on documentation if implementation is complete.
+
+  
+
+
+Some database project ideas:
+
+-News management system-keeping track of daily news according to categories, archiving news according to date
+-Movie director, name, artiste, actors, date, genre, language
+-cd/dvd shop-inventory record, customer details, membership details, emplyee payment etc
+-newspaper/magazine, categories, dates, language, title, customer details for delivery
+-social network ??
+-a system to track, record your family tree
+-sport league management system for scheduling matches, recording results etc.
+-a system to keep track of accounts at home-for tracking income, expenditure, regular payment  

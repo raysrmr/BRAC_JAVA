@@ -1,0 +1,3 @@
+document.write('<div id="kmn_tag_c5162208f64e3affe53c859aee3f3978" style="border:none;padding:0;background:transparent;">');
+kmn_sa.spark('c5162208f64e3affe53c859aee3f3978',{a:true,codes:"p1,o1,h"});kmn_data['c5162208f64e3affe53c859aee3f3978']={chain:'N1',codes:['p1','o1','h'],full_index:1,order:'1p'};var pubId=32702;var siteId=62112;var kadId=131390;var kadwidth=728;var kadheight=90;var kadtype=1;var kadpageurl='http%3A%2F%2Fmysqltutorial.org+';document.write('<scr'+'ipt src="http://ads.pubmatic.com/AdServer/js/showad.js?rn=1412043535" type="text/javascript"></scr'+'ipt>');
+document.write('</div>');

@@ -1,0 +1,3 @@
+window.rtbsBidA = (typeof window.rtbsBidA  === 'object' ) ? window.rtbsBidA : {};
+window.rtbsBidA["140110762"] = {bidder_id: 9, logging_beacons: ["http://opt.media.net/rtbs/pixel?key=9%3A%3A20140930%3A%3A03%3A%3ABD%3A%3A172.16.202.34_7016&value=550&bid=9&country=BD&cid=8CU4593V4&crid=140110762&domain=mysqltutorial.org&size=336x280&buyerid=null", "http://opt.media.net/ybnca/exchangenotify?aid=null&domain=mysqltutorial.org&price=5.5&cgid=1002185&cid=1012331&rid=1000415661&url=&cc=BD&td=&lid=&t=1412047850931"], bid: 5.5, variant: 0, tp: "http://opt.media.net/rtbs/timeline?date=2014-09-30&hour=03&url=http%3A%2F%2Fwww.mysqltutorial.org%2Fmysql-left-join.aspx&domain=mysqltutorial.org&b2b=0.0&b9b=5.5&bc=5.5&rtbW=9&<cm_win_macro>"};
+;
