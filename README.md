@@ -23,7 +23,10 @@
     ```
     git clone https://github.com/raysrmr/BRAC_JAVA.git
     ```
-* Everytime something changes in the repo, you can just write: git pull.
+* Everytime something changes in the repo, you can just write: 
+    ```
+    git pull
+    ```
 * You may set your username and password globally (only on your personal computer) so git will not ask you to enter them everytime. 
   * To do that follow [this](https://help.github.com/articles/setting-your-username-in-git/).
 
