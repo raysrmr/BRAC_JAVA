@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="./style/style.css">
+<title>Menu Item List Admin</title>
+</head>
+<body>
+	<header>
+		<span id="span1">truYum</span> <img
+			src="./images/truyum-logo-light.png" height=100% width=100px>
+		<span id="span2"> <a id="admin-menu"
+			href="menu-item-list-admin.html">Menu</a></span>
+	</header>
+	<h2 id="admin-menu-items">Menu Items</h2>
+	<article id="admin-article">
+		<table id="admin-table" cellspacing=20px>
+			<tr>
+				<th><label for="field-name" class="namerow">Name</label></th>
+				<th><label for="field-price" class="price">Price</label></th>
+				<th id="edit-id"><label for="field-active">Active</label></th>
+				<th id="edit-id" label for="field-dateofLaunch">Date of Launch</label></th>
+				<th id="edit-id"><label for="field-category">Category</label></th>
+				<th id="edit-id"><label for="field-freeDelivery">Free
+						Delivery</label></th>
+				<th id="edit-id"><label for="field-action">Action</label></th>
+			<tr>
+				<td class="namerow">Sandwich</td>
+				<td>Rs.99.00</td>
+				<td>Yes</td>
+				<td>15/03/2017</td>
+				<td>Main Course</td>
+				<td>Yes</td>
+				<td><a href="edit-menu-item.html" class="links">Edit</a></td>
+			</tr>
+
+			<tr>
+				<td class="namerow">Burger</td>
+				<td>Rs.129.00</td>
+				<td>Yes</td>
+				<td>23/12/2017</td>
+				<td>Main Course</td>
+				<td>No</td>
+				<td><a href="edit-menu-item.html" class="links">Edit</a></td>
+			</tr>
+
+			<tr>
+				<td class="namerow">Pizza</td>
+				<td>Rs.149.00</td>
+				<td>Yes</td>
+				<td>21/08/2017</td>
+				<td>Main Course</td>
+				<td>No</td>
+				<td><a href="edit-menu-item.html" class="links">Edit</a></td>
+			</tr>
+
+			<tr>
+				<td class="namerow">French Fries</td>
+				<td>Rs.57.00</td>
+				<td>No</td>
+				<td>02/07/2017</td>
+				<td>Starters</td>
+				<td>Yes</td>
+				<td><a href="edit-menu-item.html" class="links">Edit</a></td>
+			</tr>
+
+			<tr>
+				<td class="namerow">Chocolate Brownie</td>
+				<td>Rs.32.00</td>
+				<td>Yes</td>
+				<td>02/11/2022</td>
+				<td>Dessert</td>
+				<td>Yes</td>
+				<td><a href="edit-menu-item.html" class="links">Edit</a></td>
+			</tr>
+
+
+
+		</table>
+	</article>
+	<footer>
+		<p>Copyright &copy 2019</p>
+	</footer>
+
+</body>
+
+</html>
