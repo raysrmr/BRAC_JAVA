@@ -1,0 +1,17 @@
+https://howtodoinjava.com/spring-mvc/spring-mvc-hello-world-example/
+
+
+https://howtodoinjava.com/spring-mvc/spring-mvc-display-validate-and-submit-form-example/
+
+
+https://spring.io/guides/gs/relational-data-access/
+
+
+
+http://zetcode.com/springboot/crudrepository/
+
+
+https://www.javacodegeeks.com/2017/10/using-mysql-jdbc-driver-spring-boot.html
+
+
+
